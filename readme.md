@@ -34,7 +34,7 @@ To use the ScrapEZ web scraping tool, follow these steps:
 ```bash
 $ git clone https://github.com/jakk-er/ScrapEZ.git
 ```
-2. **Install dependencies**: Run `pip install -r requirements.txt` to install the required dependencies, including `requests`, `beautifulsoup4`, `urllib.parse`, `time`, and `collections`.
+2. **Install dependencies**: Run `pip install -r requirements.txt` to install the required dependencies, including `requests`, `beautifulsoup4` and `urllib.parse`.
 ```bash
 $ pip install -r requirements.txt
 ```
