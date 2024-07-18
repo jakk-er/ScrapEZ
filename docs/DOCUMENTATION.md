@@ -64,8 +64,18 @@ You can modify the script to:
 **License and Disclaimer**
 -------------------------
 
-ScrapEZ is licensed under the **MIT License**. See the **LICENSE** file for details.
+## License and Disclaimer
 
-This software is intended for **educational purposes only**. You agree to use the software solely for educational, research, or academic purposes, and not for any commercial or malicious activities.
+ScrapEZ is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+This software is intended for educational purposes only. You agree to use the software solely for educational, research, or academic purposes, and not for any commercial or malicious activities.
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 You acknowledge that you are solely responsible for any misuse of the software, including but not limited to using it to target websites or systems without their permission. The authors and copyright holders shall not be liable for any damages or claims arising from such misuse.
