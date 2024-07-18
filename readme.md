@@ -12,7 +12,7 @@
 ==== ScrapEZ webscraper    |_|      by jack-er ====
 ===================================================
 --->
-![ScrapEZ Banner](banner/banner.png)
+![ScrapEZ Banner](banner/banner_black.png)
 
 ScrapEZ Web Scraping Tool
 ================================
