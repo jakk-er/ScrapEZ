@@ -108,7 +108,7 @@ def main():
             print(f"\nError accessing {website_url}: {e}\n\nPlease check the URL and try again.")
 
     print("Choose which scraping methods to use:")
-    print("1. Scrape subdomain links & related links")
+    print("1. Scrape subdomain & related links")
     print("2. Scrape pages links")
     print("3. Scrape robots.txt")
     print("4. Scrape embedded links")
