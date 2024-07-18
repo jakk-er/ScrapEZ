@@ -47,11 +47,11 @@ The tool will extract the requested data and print it to the console.
 
 Here are some example usage scenarios:
 
-* To scrape subdomain links and pages links from `https://example.com`, enter: https://example.com 1,2
+* To scrape subdomain links and pages links from `https://example.com`, enter: https://example.com 1,2 `or` example.com 1,2
 
-* To scrape robots.txt and embedded links from `https://www.example.net`, enter: https://www.example.net 3,4
+* To scrape robots.txt and embedded links from `https://www.example.net`, enter: https://www.example.net 3,4 `or` www.example.net 3,4
 
-* To scrape all available data from `https://subdomain.example.io`, enter: https://subdomain.example.io 1,2,3,4
+* To scrape all available data from `https://subdomain.example.io`, enter: https://subdomain.example.io 1,2,3,4 `or` subdomain.example.io 1,2,3,4
 
 **License**
 ---------
