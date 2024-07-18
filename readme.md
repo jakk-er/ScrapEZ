@@ -100,7 +100,7 @@ This software requires the following dependencies:
 **Author**
 ---------
 
-jack-er
+jakk-er
 
 **Version**
 ---------
