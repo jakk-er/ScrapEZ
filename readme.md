@@ -71,7 +71,11 @@ You acknowledge that you are solely responsible for any misuse of the software, 
 **Modification Restrictions**
 ---------------------------
 
+### Modification Restrictions
+
 You are permitted to modify the software for your own educational purposes, but you agree not to modify the software in a way that would compromise its integrity or security. You also agree not to remove or alter any copyright notices, trademarks, or other proprietary rights notices from the software.
+
+When redistributing or sharing modified versions of the software, you must provide appropriate attribution, indicate if changes were made, and include a link to the original license.
 
 **Dependencies**
 --------------
