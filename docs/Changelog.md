@@ -36,4 +36,4 @@ If you'd like to contribute to ScrapEZ, please fork the repository and submit a 
 **License**
 ---------
 
-ScrapEZ is licensed under the MIT License. See the LICENSE file for details.
+ScrapEZ is licensed under a Creative Commons Attribution 4.0 International License.
