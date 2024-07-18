@@ -20,7 +20,7 @@ ScrapEZ Web Scraping Tool
 **Description**
 This is a web scraping tool that allows you to extract links and data from a website. The tool provides four scraping methods:
 
-1. **Scrape subdomain links**
+1. **Scrape subdomain & related links**
 2. **Scrape pages links**
 3. **Scrape robots.txt**
 4. **Scrape embedded links**
@@ -30,7 +30,7 @@ This is a web scraping tool that allows you to extract links and data from a web
 
 To use the ScrapEZ web scraping tool, follow these steps:
 
-1. **Clone the repository**: Run `git clone https://github.com/jakk-er/ScrapEZ.git` to clone the repository to your local machine.
+1. **Clone the repository**: Run ```git clone https://github.com/jakk-er/ScrapEZ.git``` to clone the repository to your local machine.
 2. **Install dependencies**: Run `pip install -r requirements.txt` to install the required dependencies, including `requests`, `beautifulsoup4`, `urllib.parse`, `time`, and `collections`.
 3. **Run the script**: Run `python scrapez.py`.
 
@@ -47,7 +47,7 @@ The tool will extract the requested data and print it to the console.
 
 Here are some example usage scenarios:
 
-* To scrape subdomain links and pages links from `https://example.com`, enter: https://example.com 1,2 `or` example.com 1,2
+* To scrape subdomain & related links and pages links from `https://example.com`, enter: https://example.com 1,2 `or` example.com 1,2
 
 * To scrape robots.txt and embedded links from `https://www.example.net`, enter: https://www.example.net 3,4 `or` www.example.net 3,4
 
