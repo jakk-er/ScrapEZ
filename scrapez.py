@@ -15,7 +15,7 @@ def scrape_subdomain_links(url, visited_urls):
     queue = deque([url])
     visited_urls.add(url)
 
-    print("\nSubdomains:")
+    print("\nSubdomains & related links:")
 
     while queue:
         current_url = queue.popleft()
@@ -108,7 +108,7 @@ def main():
             print(f"\nError accessing {website_url}: {e}\n\nPlease check the URL and try again.")
 
     print("Choose which scraping methods to use:")
-    print("1. Scrape subdomain links")
+    print("1. Scrape subdomain links & related links")
     print("2. Scrape pages links")
     print("3. Scrape robots.txt")
     print("4. Scrape embedded links")
