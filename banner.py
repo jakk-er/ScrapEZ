@@ -15,4 +15,5 @@ def display_banner():
             \n \n"""
       print(banner)
       
-display_banner()
+if __name__ == "__main__":
+    display_banner()
