@@ -30,9 +30,9 @@ This is a web scraping tool that allows you to extract links and data from a web
 
 To use the ScrapEZ web scraping tool, follow these steps:
 
-1. **Clone the repository**: Run `git clone https://github.com/your-username/scrape-ez.git` (replace `your-username` with your actual GitHub username) to clone the repository to your local machine.
+1. **Clone the repository**: Run `git clone https://github.com/jakk-er/ScrapEZ.git` to clone the repository to your local machine.
 2. **Install dependencies**: Run `pip install -r requirements.txt` to install the required dependencies, including `requests`, `beautifulsoup4`, `urllib.parse`, `time`, and `collections`.
-3. **Run the script**: Run `python scrape_ez.py` (assuming the script is named `scrape_ez.py`) to start the web scraping tool.
+3. **Run the script**: Run `python scrapez.py`.
 
 **Note**: Make sure you have Python installed on your system, along with the required dependencies. If you're using a virtual environment, activate it before running the script.
 
