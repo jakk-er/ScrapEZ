@@ -32,15 +32,15 @@ To use the ScrapEZ web scraping tool, follow these steps:
 
 1. **Clone the repository**: Run ```git clone https://github.com/jakk-er/ScrapEZ.git``` to clone the repository to your local machine.
 ```bash
-$ git clone https://github.com/jakk-er/ScrapEZ.git
+git clone https://github.com/jakk-er/ScrapEZ.git
 ```
 2. **Install dependencies**: Run `pip install -r requirements.txt` to install the required dependencies, including `requests`, `beautifulsoup4` and `urllib.parse`.
 ```bash
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 3. **Run the script**: Run `python scrapez.py`.
 ```bash
-$ python scrapez.py
+python scrapez.py
 ```
 
 **Note**: Make sure you have Python installed on your system, along with the required dependencies. If you're using a virtual environment, activate it before running the script.
