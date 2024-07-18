@@ -8,7 +8,7 @@
 **Overview**
 -----------
 
-ScrapEZ is a web scraping tool that allows you to extract links and data from a website. The tool provides four scraping methods: **scraping subdomain links**, **scraping pages links**, **scraping robots.txt**, and **scraping embedded links**.
+ScrapEZ is a web scraping tool that allows you to extract links and data from a website. The tool provides four scraping methods: **scraping subdomain & related links**, **scraping pages links**, **scraping robots.txt**, and **scraping embedded links**.
 
 **How it Works**
 ---------------
