@@ -9,8 +9,6 @@ import time
 from collections import deque
 from banner import display_banner
 
-display_banner()
-
 def scrape_subdomain_links(url, visited_urls):
     queue = deque([url])
     visited_urls.add(url)
@@ -127,4 +125,5 @@ def main():
 
 
 if __name__ == "__main__":
+    display_banner()
     main()
