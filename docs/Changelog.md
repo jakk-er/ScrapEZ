@@ -12,6 +12,13 @@ All notable changes to this project will be documented in this file.
 
 * No changes yet.
 
+**1.0.1**
+--------
+
+* **Fixed Banner Display Issue**: 
+  - Resolved an issue where the application banner (`banner.py`) was displaying multiple times upon import or execution. Implemented a solution to ensure the banner displays only once when the `display_banner()` function is called.
+  - Added a boolean flag (`banner_displayed`) to track whether the banner has already been displayed, preventing redundant displays.
+
 **1.0**
 --------
 
