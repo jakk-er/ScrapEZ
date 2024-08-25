@@ -104,12 +104,10 @@ This software requires the following dependencies:
 
 1. `requests`
 2. `beautifulsoup4`
-3. `urllib3`
-4. `langdetect`
-5. `playwright`
-6. `selenium`
-7. `webdriver-manager`
-8. `pyppeteer`
+3. `langdetect`
+4. `playwright`
+5. `selenium`
+6. `webdriver-manager`
 
 **Author**
 ---------
