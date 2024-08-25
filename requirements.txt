@@ -4,4 +4,3 @@ playwright
 selenium
 webdriver-manager
 langdetect
-urllib
