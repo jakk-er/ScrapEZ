@@ -14,12 +14,20 @@ ScrapEZ Web Scraping Tool
 ================================
 
 **Description**
-This is a web scraping tool that allows you to extract links and data from a website. The tool provides four scraping methods:
+This is a web scraping tool that allows you to extract links and data from a website. The tool provides the following scraping methods:
 
 1. **Scrape subdomain & related links**
 2. **Scrape pages links**
 3. **Scrape robots.txt**
 4. **Scrape embedded links**
+5. **Extract metadata**
+6. **Analyze content**
+7. **Check links**
+8. **Performance metrics**
+9. **Handle cookies**
+10. **Parse sitemap**
+11. **Detect language**
+12. **Get JavaScript content**
 
 **Installation**
 --------------
@@ -43,64 +51,53 @@ python scrapez.py
 
 **Usage**
 ---------
-
-Run the script and enter the website URL when prompted.
-Choose which scraping methods to use by entering the corresponding numbers (separated by commas).
-The tool will extract the requested data and print it to the console.
+Run the script and enter the website URL when prompted. Choose which scraping methods to use by entering the corresponding numbers (separated by commas). The tool will extract the requested data and print it to the console.
 
 **Example Usage**
-
+-----------------
 Here are some example usage scenarios:
 
-* To scrape subdomain & related links and pages links from `https://example.com`, enter: https://example.com press `enter` and then choose 1,2 `or` example.com press `enter` and then choose 1,2
+* To scrape subdomain & related links and pages links from `https://example.com`, enter: `https://example.com` press `enter` and then choose `1,2` or `example.com` press `enter` and then choose `1,2`.
 
-* To scrape robots.txt and embedded links from `https://www.example.net`, enter: https://www.example.net press `enter` and then choose 3,4 `or` www.example.net press `enter` and then choose 3,4
+* To scrape robots.txt and embedded links from `https://www.example.net`, enter: `https://www.example.net` press `enter` and then choose `3,4` or `www.example.net` press `enter` and then choose `3,4`.
 
-* To scrape all available data from `https://subdomain.example.io`, enter: https://subdomain.example.io press `enter` and then choose 1,2,3,4 `or` subdomain.example.io press `enter` and then choose 1,2,3,4
+* To scrape all available data from `https://subdomain.example.io`, enter: `https://subdomain.example.io` press `enter` and then choose `1,2,3,4` or `subdomain.example.io` press `enter` and then choose `1,2,3,4`.
 
 **License**
----------
-
-# This work is licensed under a Creative Commons Attribution 4.0 International License.
-# You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-# Details: https://creativecommons.org/licenses/by/4.0/
+-----------
+This work is licensed under a Creative Commons Attribution 4.0 International License. You must give appropriate credit, provide a link to the license, and indicate if changes were made. Details: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 **Educational Use Only**
 ------------------------
-
 This software is intended for educational purposes only. You agree to use the software solely for educational, research, or academic purposes, and not for any commercial or malicious activities.
 
 **No Liability for Misuse**
 ---------------------------
-
 You acknowledge that you are solely responsible for any misuse of the software, including but not limited to using it to target websites or systems without their permission. The authors and copyright holders shall not be liable for any damages or claims arising from such misuse.
 
 **Modification Restrictions**
----------------------------
-
-### Modification Restrictions
-
+----------------------------
 You are permitted to modify the software for your own educational purposes, but you agree not to modify the software in a way that would compromise its integrity or security. You also agree not to remove or alter any copyright notices, trademarks, or other proprietary rights notices from the software.
 
 When redistributing or sharing modified versions of the software, you must provide appropriate attribution, indicate if changes were made, and include a link to the original license.
 
 **Dependencies**
---------------
-
+----------------
 This software requires the following dependencies:
 
 1. `requests`
 2. `beautifulsoup4`
-3. `urllib.parse`
-4. `time`
-5. `collections`
+3. `urllib3`
+4. `langdetect`
+5. `playwright`
+6. `selenium`
+7. `webdriver-manager`
+8. `pyppeteer`
 
 **Author**
 ---------
-
 jakk-er
 
 **Version**
 ---------
-
-1.0.1
+2.0
