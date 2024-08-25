@@ -63,6 +63,23 @@ Here are some example usage scenarios:
 
 * To scrape all available data from `https://subdomain.example.io`, enter: `https://subdomain.example.io` press `enter` and then choose `1,2,3,4` or `subdomain.example.io` press `enter` and then choose `1,2,3,4`.
 
+# Data Storage
+-----------------
+The script saves data into Markdown files within the `Results` directory, with each file named according to the data type:
+
+1. **Subdomain Links**: `scraped_data_subdomain_links.md`
+2. **Page Links**: `scraped_data_pages_links.md`
+3. **Robots.txt**: `scraped_data_robots_txt.md`
+4. **Embedded Links**: `scraped_data_embedded_links.md`
+5. **Metadata**: `scraped_data_metadata.md`
+6. **Broken Links**: `scraped_data_broken_links.md`
+7. **Performance Metrics**: `scraped_data_performance_metrics.md`
+8. **Cookies**: `scraped_data_cookies.md`
+9. **Sitemap URLs**: `scraped_data_sitemap_urls.md`
+10. **Detected Language**: `scraped_data_language.md`
+11. **JavaScript Content**: `[sanitized_url]-js-content.html`
+12. **Content Analysis**: `url_analysis.md`
+
 **License**
 -----------
 This work is licensed under a Creative Commons Attribution 4.0 International License. You must give appropriate credit, provide a link to the license, and indicate if changes were made. Details: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
